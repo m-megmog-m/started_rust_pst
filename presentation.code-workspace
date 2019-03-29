@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"markdown-pdf.orientation": "landspace",
+		"markdown-pdf.styles": [
+        	"style.css"
+    	],
+	    "markdown-pdf.breaks": true,
+	}
+}
